@@ -104,7 +104,7 @@ h2{
     margin: 5px;
     margin-left: 0;
     padding: 3px;
-    color: blue;
+    color: #ff0157;
 }
 @media screen and (min-width:600px){
     .footer-right > *{
